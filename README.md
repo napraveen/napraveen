@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello I'm Praveen.N</h1>
+<h1 align="center">Hello👋, I'm Praveen.N</h1>
 <h2 align="center">A Passionate Full Stack Developer</h2>
 
 - ⚡ Smart India Hackathon Finalist - 2023 | Title: Underwater ROV for monitoring HeadRace Tunnels
