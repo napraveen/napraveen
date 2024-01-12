@@ -15,5 +15,5 @@
 - 🔭 I am currently working on Attendance Management System with MERN
 - 🌱 I am currently learning MERN, Networking...
 - 👯 I'm looking for an internship in Front-End/Full-stack Developmnet
-- 📫 https://www.linkedin.com/in/napraveen/
+- 📫 Reach me @ Linkedin: https://www.linkedin.com/in/napraveen/
   
