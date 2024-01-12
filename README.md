@@ -14,7 +14,7 @@
 - ⚡ Smart India Hackathon Finalist - 2023 | Title: Underwater ROV for monitoring HeadRace Tunnels
 - 🔭 I am currently working on Attendance Management System with MERN
 - 🌱 I am currently learning MERN, Networking...
-- 👯 I'm looking for an internship in Front-End/Full-stack Developmnet
+- 👯 I am currently looking for an internship in Front-End/Full-stack Developmnet
 - 📫 Reach me @ Linkedin: https://www.linkedin.com/in/napraveen/
 - 👨‍💻 My Projects are available @ https://github.com/napraveen/napraveen
   
