@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center><h1>Hello I'm Praveen.N</h1></center>
+<h1 align="center">Hello I'm Praveen.N</h1>
+<h2 align="center">A Passionate Full Stack Developer</h2>
