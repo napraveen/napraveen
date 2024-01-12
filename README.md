@@ -12,3 +12,8 @@
 <h2 align="center">A Passionate Full Stack Developer</h2>
 
 - ⚡ Smart India Hackathon Finalist - 2023 | Title: Underwater ROV for monitoring HeadRace Tunnels
+- 🔭 I am currently working on Attendance Management System with MERN
+- 🌱 I am currently learning MERN, Networking...
+- 👯 I'm looking for an internship in Front-End/Full-stack Developmnet
+- 📫 https://www.linkedin.com/in/napraveen/
+  
