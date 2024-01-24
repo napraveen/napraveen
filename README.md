@@ -10,6 +10,8 @@
 -->
 <h1 align="center">Hello👋, I'm Praveen.N</h1>
 <h2 align="center">A Passionate Full Stack Developer</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=napraveen&label=Profile%20views&color=0e75b6&style=flat" alt="napraveen" /> </p>
+
 
 - ⚡ Smart India Hackathon Finalist - 2023 | Title: Underwater ROV for monitoring HeadRace Tunnels
 - 🔭 I am currently working on Attendance Management System with MERN
@@ -20,8 +22,6 @@
   
 <h3 align="left">Connect with me:</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jameel-ahmed-2003&label=Profile%20views&color=0e75b6&style=flat" alt="jameel-ahmed-2003" /> </p>
 
 
 
