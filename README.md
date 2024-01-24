@@ -21,6 +21,8 @@
 <h3 align="left">Connect with me:</h3>
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameel-ahmed-2003" alt="jameel-ahmed-2003" /></a> </p>
+
 <a href="https://www.linkedin.com/in/napraveen/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="napraveen" height="30" width="40" /></a><a href="https://github.com/napraveen/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="napraveen" height="30" width="40" /></a><a href="https://www.hackerrank.com/profile/napraveen03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="napraveen" height="30" width="40" /></a><a href="https://leetcode.com/napraveen22" target="blank"><img align="center" src="https://github.com/napraveen/napraveen/blob/main/leet.png" alt="leetcode" height="30" width="40" /></a>
 
 <h3>Tech Stack:</h3>
