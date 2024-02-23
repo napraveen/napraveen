@@ -43,5 +43,5 @@ My Top Projects:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=napraveen&show_icons=true&locale=en&include_all_commits=true&hide_border=true&theme=radical&layout=compact" alt="napraveen" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=napraveen&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&locale=en" alt="praabindhp" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=napraveen&theme=git-dark)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=napraveen&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&locale=en" alt="napraveen" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=napraveen&theme=git-dark" alt="napraveen" /></p>
