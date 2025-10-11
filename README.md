@@ -19,7 +19,6 @@
 - 👯 I am currently looking for an internship in Front-End/Full-stack Developmnet
 - 📫 Reach me @ Linkedin: https://www.linkedin.com/in/napraveen/
 - 👨‍💻 My Projects are available @ https://github.com/napraveen/napraveen
-- 📫 View my Portfolio @ https://my-portfolio-orpin-zeta.vercel.app/
   
 <h3 align="left">Connect with me:</h3>
 
